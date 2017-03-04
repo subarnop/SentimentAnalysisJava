@@ -1,0 +1,5 @@
+ result for euclidian formula: 78.57142857142857% 
+ result for taxicab   formula: 68.36734693877551% 
+ result for hamming   formula: 31.63265306122449% 
+
+ result for nbayes formula: 77.55102040816327% 
