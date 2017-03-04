@@ -1,5 +1,4 @@
 # SentimentAnalysisJava
-# Vincent : AI Artist
 
 Sentiment Analysis is a project for determining sentiment of labeled texts obtained from reviews and microblogging websits.
 
